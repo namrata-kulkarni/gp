@@ -2,7 +2,7 @@ const data = [
   {
     title: 'Lagna',
     subtitle: 'Informational Website Design',
-    link: 'https://www.behance.net/gallery/152675447/Lagna-Informational-Website-Design',
+    link: '/lagna',
     image: '/images/projects/lagna.jpeg',
     date: '2019-11-20',
     desc: 'Lagna is an informational website to highlight the semiotics and symbolism of the rituals followed and commodities used in Marathi weddings.',
@@ -15,7 +15,7 @@ const data = [
   {
     title: 'Walmart',
     subtitle: 'Usability Testing | Case Study',
-    link: 'https://www.behance.net/gallery/140314479/Walmart-Usability-Testing',
+    link: '/walmart',
     image: '/images/projects/walmart.jpeg',
     date: '2022-05-01',
     desc: 'We designed and evaluated 3 key tasks that customers would complete on walmart.com. By testing the website, we wanted to help improve the user experience and make the website more user-friendly.',
@@ -27,7 +27,7 @@ const data = [
   {
     title: 'Netchex',
     subtitle: 'Web Application',
-    link: 'https://www.behance.net/gallery/129942573/Netchex-Application-Design',
+    link: '/netchex',
     image: '/images/projects/netchex.jpg',
     date: '2019-11-20',
     desc: 'Netchex offers businesses a comprehensive, web-based suite of payroll, human resources, and benefit administrative services backed by dedicated support specialists.',
@@ -40,9 +40,9 @@ const data = [
   {
     title: 'Starbucks',
     subtitle: 'Application Redesign',
-    link: 'https://www.behance.net/gallery/129945941/Starbucks-App-Application-Redesign',
+    link: '/starbucks',
     image: '/images/projects/starbucks.png',
-    date: '2021-11-20',
+    date: '2018-12-20',
     desc: 'While redesigning the Starbucks mobile app, the main focus was improving the appearance, user experience, user flow, and making information more discoverable.',
     team: 'Team: Namrata Kulkarni and 2 Others',
     role: 'Role: UX designer',
@@ -53,7 +53,7 @@ const data = [
   {
     title: 'Design for social good',
     subtitle: 'Sustainable lifestyle App Design',
-    link: 'https://www.behance.net/gallery/129942749/Design-for-social-good-Application-Design',
+    link: '/switch',
     image: '/images/projects/switch.jpeg',
     date: '2020-12-20',
     desc: 'Switch app helps users take care of their environment and make the world sustainable. This curation platform encourages users to search and explore sustainable alternatives. ',
@@ -66,7 +66,7 @@ const data = [
   {
     title: 'Data Visualization',
     subtitle: 'Interactive Dashboard',
-    link: 'https://www.behance.net/gallery/131208283/Data-Visualization-Tableau',
+    link: '/dataviz',
     image: '/images/projects/tableau.jpg',
     date: '2022-05-01',
     desc: 'Designed a interactive dashboard to show information about ​​​​​​Agriculture in the United States and Nutritional contents of Starbucks beverages',
