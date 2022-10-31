@@ -1,10 +1,10 @@
 const data = [
   {
-    title: 'datviz',
+    title: 'datviz1',
     image: '/images/dataviz/Agri.png',
   },
   {
-    title: 'datviz',
+    title: 'datviz2',
     image: '/images/dataviz/Sbucks.png',
   },
 ];
