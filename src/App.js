@@ -31,9 +31,9 @@ const App = () => (
     <Suspense fallback={<Main />}>
       <Switch>
         <Route exact path="/" component={Index} />
+
         <Route path="/about" component={About} />
         <Route path="/projects" component={Projects} />
-        {/* <Route path="/stats" component={Stats} /> */}
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
         <Route path="/research" component={Research} />
@@ -48,6 +48,8 @@ const App = () => (
         <Route path="/switch" component={SwitchApp} />
         <Route path="/walmart" component={Walmart} />
         <Route path="/dataviz" component={Dataviz} />
+
+        {/* <Route path="/stats" component={Stats} /> */}
 
         <Route component={NotFound} status={404} />
       </Switch>
