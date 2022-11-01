@@ -15,7 +15,7 @@ const data = [
     icon: faTwitter,
   },
   {
-    link: '',
+    link: 'https://www.instagram.com/plants.and.antiques/',
     label: 'Instagram',
     icon: faInstagram,
   },

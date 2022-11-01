@@ -26,7 +26,7 @@ const data = [
   },
   {
     title: 'Netchex',
-    subtitle: 'Web Application',
+    subtitle: 'Application Design',
     link: '/netchex',
     image: '/images/projects/netchex.jpg',
     date: '2019-11-20',
@@ -46,7 +46,7 @@ const data = [
     desc: 'While redesigning the Starbucks mobile app, the main focus was improving the appearance, user experience, user flow, and making information more discoverable.',
     team: 'Team: Namrata Kulkarni and 2 Others',
     role: 'Role: UX designer',
-    client: 'Client: Class Project',
+    client: 'Client: Project',
     time: 'Time: 10 Weeks',
     tools: 'Tools: Photoshop, Illustrator, Figma',
   },

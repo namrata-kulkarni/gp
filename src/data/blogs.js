@@ -7,7 +7,7 @@ const data = [
   },
   {
     title: 'What working at Starbucks has taught me about UX Design?',
-    link: 'blog2',
+    link: '/blog2',
     image: '/images/blogs/sbucks.jpg',
     date: '2022-01-20',
   },

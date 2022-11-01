@@ -30,5 +30,5 @@ My goal is to work with people who are continually working to solve small proble
 
 # 04 MORE ABOUT ME
 
-When I'm not on Figma, you can catch me here on my Instagram [growup.urban]()
+When I'm not on Figma, you can catch me here on my [Instagram](https://www.instagram.com/plants.and.antiques/)
 

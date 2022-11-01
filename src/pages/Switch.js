@@ -16,6 +16,22 @@ const Switch = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/projects">Switch</Link></h2>
           <p>Application Design</p>
+          <p className="published">
+            Switch app helps users take care of their environment and make the world sustainable.
+            This curation platform encourages users to search and explore sustainable alternatives.
+            <br />
+            <br />
+            Team: Namrata Kulkarni and 1 Others
+            <br />
+            Role: UX designer & Researcher
+            <br />
+            Client: Google Certification Course
+            <br />
+            Time: 5 Weeks
+            <br />
+            Tools: Photoshop, Illustrator, Adobe XD
+            <br />
+          </p>
         </div>
       </header>
       {data.map((project) => (
